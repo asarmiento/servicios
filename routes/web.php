@@ -19,4 +19,4 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index');
 
-include __DIR__.'\Web\Customer.php';
+include __DIR__.'/Web/Customer.php';
