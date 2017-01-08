@@ -13,7 +13,7 @@
                             <li class="dropdown">
                                 <a href="#"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Clientes<span class="caret"></span></a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="">Lista de Clientes</a></li>
+                                    <li><a href="{{route('customer-index')}}">Lista de Clientes</a></li>
                                     <li><a href="">Reporte de Pagos</a></li>
                                 </ul>
                             </li>
